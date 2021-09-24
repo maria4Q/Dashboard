@@ -1,0 +1,74 @@
+.background_login{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    max-height: 110rem;
+}
+.banner h2{
+    margin-top: 9rem;
+}
+.banner p{
+    margin-top: 19rem;
+}
+.circle{
+    width: 6.2rem;
+    align-self: flex-end;
+    position: absolute;
+    top: 16rem;
+    right: 95rem;
+}
+.backgroud-section{
+    margin-right: 50rem;
+    margin-left: -23rem;
+}
+.items .div1{
+    background: #FFFFFF;
+    width: 16.3rem; 
+    height: 20.2rem;
+    top: 30rem;
+    border-radius: 1.5rem;
+    border: 0.1rem #6184C7 solid;
+    position: absolute;
+    align-self: flex-start;
+}
+.items .div2{
+    background: #FFFFFF;
+    width: 16.3rem; 
+    height: 20.2rem;
+    top: 30rem;
+    border-radius: 1.5rem;
+    border: 0.1rem #6184C7 solid;
+    position: absolute;
+    align-self: flex-end;
+    margin-left: 18rem;
+}
+.cuadrados{
+    max-width: 70rem;
+    padding-bottom: 80rem;
+    background-color: #fff;
+    border-radius: 4rem 4rem 4rem 4rem;
+    padding-top: 4rem;
+    margin-top: 5rem;
+    height: 70rem;
+    margin-bottom: -5rem;
+}
+.divs .div_left{
+    border-radius: 1.5rem;
+    width: 16.3rem;
+    height: 13.2rem;
+    background: #F5F6FC;
+    margin-right: 1rem;
+    margin-bottom: 1.7rem;
+    box-shadow: 3px 3px 5px 3px #999;
+    cursor: pointer;
+}
+.divs .div_right{
+    border-radius: 1.5rem;
+    width: 16.3rem;
+    height: 13.2rem;
+    background: #F5F6FC;
+    margin-bottom: 1.7rem;
+    box-shadow: 3px 3px 5px 3px #999;
+    cursor: pointer;
+}
+

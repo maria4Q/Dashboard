@@ -1,0 +1,19 @@
+.background_login{
+    height: 130rem;
+}   
+.cuadrados{
+    max-width: 70rem;
+    background-color: #fff;
+    border-radius: 4rem 4rem 4rem 4rem;
+    /*padding-top: 15rem;*/
+}
+.banner{
+    margin-top: -4rem;
+    margin-right: 3rem;
+}
+.div_left{
+     margin-top: 4rem;
+}
+.div_right{
+    margin-top: 4rem;
+}
